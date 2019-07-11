@@ -1,0 +1,39 @@
+{
+  "name": "UNIK CUSTOM PRODUCT",
+  "short_name": "UNIK CUSTOM HP",
+  "start_url": "https://unikcustomproduct.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Case Custom Product CASING HP -TOPI -MUG -KAOS - THUMBLER ",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-e3HJgZCXpw0/XSeJcxgrkcI/AAAAAAAAB8o/NTgT70NraPMeExXQMW2eCJ_hGbnoNJCogCEwYBhgL/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--NJ47_wUKhs/XSeJkogISXI/AAAAAAAAB8s/6xR37U4NapI9giBJVQXNiYYDGAh41kb4ACEwYBhgL/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-niE8HqBbr1c/XSeJo45uO4I/AAAAAAAAB8w/vNhqmoec2pAsB2S3cmhNMJSVePqLUBG9ACEwYBhgL/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RozGgiKsOAM/XSeJsNdb1oI/AAAAAAAAB8w/mwjVuMEFE9QszuwghQ-ixC59shCjOi7cQCEwYBhgL/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-IzvCqBOFyPU/XSeLvK9mQ2I/AAAAAAAAB88/ZP2cTUX1BG0J_xaAtTOfh5jgg99ro3FCQCLcBGAs/s1600/UNIK%2BCUSTOM%2BPRODUCT%2B168X168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YFOE1MRtY5Y/XSeLmlBC_TI/AAAAAAAAB84/jYD0C6jZ3oo5k9ZdTCz_i6OH5UuJVdNpwCLcBGAs/s1600/android-icon-192x192.png
+",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OpTLhAxfSlQ/XSeLzxP7phI/AAAAAAAAB9A/fw84p4nwXbEQC0kXssd39v-AlfSVkT_3ACLcBGAs/s1600/UNIK%2BCUSTOM%2BPRODUCT.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
