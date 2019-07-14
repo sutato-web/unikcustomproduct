@@ -1,0 +1,37 @@
+{
+  "name": "UNIK CUSTOM PRODUCT",
+  "short_name": "UNIK CUSTOM PRODUCT",
+  "start_url": "https://unikcustomproduct.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Product Custom HP - MUG - TOPI - TUMBLER - KAOS | PRINT ON DEMAND",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-2otBb9_gIPs/XSt3TfN9A3I/AAAAAAAAB_E/4wmCPKAgCJ4t5aRtNhoEZ3O2SDrwkU4aACLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DMflkYWvpbQ/XSt3eja7_5I/AAAAAAAAB_Q/x5k_qJ8BfHwM2s1_x6FKINdxCeoZvGvZQCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-denW_EESK1A/XSt3ffKwbfI/AAAAAAAAB_U/DT18EUwS6lk5RoLlPd1Ls4RtOeM3eUoVACLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0zPPZJoYwrI/XSt3eSc3YjI/AAAAAAAAB_M/kP313BcXIsUrU7KBYEYmSJg-msw5FAfrwCLcBGAs/s1600/android-icon-144x144.png",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Y1bFhosjcYU/XSt3xRb3NiI/AAAAAAAAB_o/upyqJa029loSfTGyRs0Cp_AWFr6j5AKPACLcBGAs/s1600/168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cWSw_MFt2BI/XSt3ea8ksUI/AAAAAAAAB_I/gf3m39RnTrgQ4oDANFmp8nXCsgNRAp99gCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-57vC-gQjpTU/XSt3x9nfUjI/AAAAAAAAB_s/wAf6RwI1tHA7szDMw_MsrFWcwxXOihadQCLcBGAs/s1600/manifesjson.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
